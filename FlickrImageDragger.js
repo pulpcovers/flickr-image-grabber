@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Allows dragging of images on Flickr sizes pages by removing the transparent overlay ("spaceball").
 // @author       PulpCovers.com
+// @updateURL    https://github.com/pulpcovers/flickr-image-grabber/raw/refs/heads/main/FlickrImageDragger.js
+// @downloadURL  https://github.com/pulpcovers/flickr-image-grabber/raw/refs/heads/main/FlickrImageDragger.js
 // @match        https://www.flickr.com/photos/*/sizes/*
 // @grant        none
 // ==/UserScript==
