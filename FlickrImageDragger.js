@@ -26,7 +26,7 @@
                 mainImage.setAttribute('draggable', 'true');
 
                 // 2. Remove any sibling elements (overlays/spaceballs) that might be blocking the image
-                // We convert children to an array to safely iterate while removing
+                // Convert children to an array to safely iterate while removing
                 Array.from(container.children).forEach(child => {
                     if (child !== mainImage) {
                         // Option A: Remove the overlay completely
